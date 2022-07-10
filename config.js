@@ -1,18 +1,16 @@
 const CONFIG = {
-    introTitle: 'Babe à!',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
-    btnIntro: 'hihi',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 😙',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Vẫn cứ là thích anh <33',
-    btnNo: 'Không, Anh trai à :3',
-    question:'Trên thế giới hơn 7 tỉ người mà sao em lại yêu anh <3',
+    introTitle: 'Nhím!',
+    introDesc: `Chiều dài chiều rộng chiều cao
+    Chiều nào em rảnh anh khao bún bò =)))`,
+    btnIntro: 'Hí hí',
+    title: 'Chubichu chubichu chubichu 😙',
+    desc: 'Phải chăng em đã yêu anh từ cái nhìn đầu tiên :v ',
+    btnYes: 'đcm thằng chó <33',
+    btnNo: 'dạ vâng :3',
+    question:'Nóc nhà dạo này láo thật =))))',
     btnReply: 'Gửi cho anh <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
+    reply: 'Em yêu anh rất nhefooooo <3333',
+    mess: 'Anh biết mà 🥰. Anh yêu em nhiều nhiều 😘😘',
     messDesc: 'Cho phép anh yêu em nhé công chúa🥰🥰🥰.',
     btnAccept: 'Okiiiii lun <3',
     messLink: 'http://fb.com/coca4819'
